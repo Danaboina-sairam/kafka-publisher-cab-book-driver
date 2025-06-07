@@ -12,7 +12,7 @@
 	<artifactId>kafka-publisher-cab-book-driver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-publisher-cab-book-driver</name>
-	<description>Demo project for Spring Boot</description>
+	<description>kafka-publisher-cab-book-driver</description>
 	<url/>
 	<licenses>
 		<license/>
